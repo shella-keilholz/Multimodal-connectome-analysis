@@ -1,7 +1,7 @@
 # Multimodal-connectome-analysis
 Code and data for Science Advances submission on functional connectivity in rs-fMRI and wide-field optical imaging
 
-Data consists of functional connectivity matrices for rs-fMRI, WOI of calcium, and WOI of HBT for 14 scans. Processed time courses for each atlas parcel in each modality are included. The cortical atlas has 60 parcels and most scans consist of 60000 timepoints for WOI, 1210 for rs-fMRI.  Some were trimmed during preprocessing.
+Data is available at https://zenodo.org/records/22016331 and consists of functional connectivity matrices for rs-fMRI, WOI of calcium, and WOI of HBT for 14 scans. Processed time courses for each atlas parcel in each modality are included. The cortical atlas has 60 parcels and most scans consist of 60000 timepoints for WOI, 1210 for rs-fMRI.  Some were trimmed during preprocessing.
 
 Summary of data
 
