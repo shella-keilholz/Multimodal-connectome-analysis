@@ -23,4 +23,8 @@ Summary of data:
 
     -separate folders for each scan that contain allfc.mat for each frequency band
 
+-Windowedanalysis folder
+
+    -includes folders for delta band and infraslow activity examined with different window lengths. For example, delta30s is delta band with 30 s       windows. For each frequency and window, there is a folder for each scan that contains dynfc.mat that contains a time series of matrices with       the same format at allfc.mat. For delta band, only calcium and HBT are calculated. 
+
     
