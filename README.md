@@ -33,6 +33,8 @@ Summary of code
 
     Modularityofmatrixfinetuned is used to calculate the modularity based on the FC matrix and can be used on single group level matrices,             individual time-averaged matrices, or windowed matrices. It uses the Brain Connectivity Toolbox from https://sites.google.com/site/bctnet and      calls on small scripts to remove NaNs in the matrices. NaNs show up in cortical areas that are not captured by WOI. 
 
-    
+    windowedfccomp calculcates the similarity of matrices across frequencies and windows.  It calls a short script called comparefcmatrices.
+
+    mostvarconnect identifies the most variable connections for any given set of windowed fc matrices.  
 
     
