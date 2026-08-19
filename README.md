@@ -20,3 +20,7 @@ Summary of data:
 -Freqanalysis folder
 
     -delta, infraslow, and slow folders each contain grpfc.mat, with the same variables as in the time-averaged folder but calculated for each         separate frequency band for the WOI data.  All rs-fMRI data is infraslow. 
+
+    -separate folders for each scan that contain allfc.mat for each frequency band
+
+    
